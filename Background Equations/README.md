@@ -1,1 +1,1 @@
-Run the Mathematica Notebook to compute the background equations of motion for A0(t), \rho_M(t) and p_M(t) for the generalized Proca action.
+Run the Mathematica Notebook to compute the background equations of motion for A0(t), \rho_M(t) and p_M(t) for the generalized Proca action for SECTION 3.3.
