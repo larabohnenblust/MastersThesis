@@ -1,1 +1,2 @@
-The Mathematica Notebook uses xPert to do the expansion of the generalized Proca action in tensor modes. At the end, the expansion of the Sqrt(-det(g)) is shown, which is needed to expand the Schutz-Sorkin Action
+The Mathematica Notebook uses xPert to do the expansion of the generalized Proca action in tensor modes. This is needed for SECTION 4.4.1.
+At the end, the expansion of the Sqrt(-det(g)) is shown, which is needed to expand the Schutz-Sorkin Action in SECTION 4.3.2.
