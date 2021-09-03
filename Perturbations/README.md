@@ -1,1 +1,1 @@
-The folders "Scalar, "Vector", "Tensor" contain notebooks to do the expansion of the action in the different modes.
+The folders "Scalar, "Vector", "Tensor" contain notebooks to do the expansion of the action in the different modes for SECTION 4.3, 4.4 and teh APPENDIX.
