@@ -1,4 +1,4 @@
-THe plots and computation for the Section 5: Stable Example
+THe plots and computation for the SECTION 5: Stable Example
 
 StableExample.py:
 - Run the python file and the plots for 
